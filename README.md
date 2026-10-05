@@ -2,8 +2,6 @@
 
 ## About the Project
 
-This is a beginner-level Data Science project based on employee data.
-
 The main aim of this project is to understand why employees leave a company and to predict employee attrition using machine learning.
 
 ## Objective
